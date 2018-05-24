@@ -1,25 +1,25 @@
 ---
 title: Research
 permalink: /research/
-layout: page
+layout: tla_page
 published: false
 ---
-The Center for Sustainable Communities conducts interdisciplinary research and offers educational and community outreach programs to address environmental and quality of life issues. 
+The Center for Sustainable Communities conducts interdisciplinary research and offers educational and community outreach programs to address environmental and quality of life issues.
 
 ## [Brownsfields Revisioning Project](https://tyler.temple.edu/brownfields-revisioning-project)
 Location: North Kensington, Philadelphia
 Status: Ongoing
-The CSC Brownsfields Revisioning Project proposes and implements cleanup and reuse strategies for North Kensington using research obtained through community engagement, existing conditions, potential resources and our partners. A brownfield is a property whose redevelopment or use is complicated by the potential presence of hazardous substances, pollutants or contaminants. Neighborhoods blighted by brownfields also experience high vacancy rates, weak economies and are often former industrial hubs. These difficulties impact economic, social, public health and environmental justice concerns within the project area, and significantly hamper development. 
+The CSC Brownsfields Revisioning Project proposes and implements cleanup and reuse strategies for North Kensington using research obtained through community engagement, existing conditions, potential resources and our partners. A brownfield is a property whose redevelopment or use is complicated by the potential presence of hazardous substances, pollutants or contaminants. Neighborhoods blighted by brownfields also experience high vacancy rates, weak economies and are often former industrial hubs. These difficulties impact economic, social, public health and environmental justice concerns within the project area, and significantly hamper development.
  
 ## [EPA Grant For Community-Driven Design](https://tyler.temple.edu/epa-grant-community-driven-design)
 Location: Delaware Direct & TTF Watersheds
 Status: In Progress
-The CSC is helping local neighborhoods implement green stormwater infrastructure. Addressing water quality, environmental justice and quality of life issues through GSI projects and watershed-wide plans is an excellent way the CSC gives back to the community. Three nonprofit organizations serve as our key partners and other partners provide advisory, advocacy and other relevant services. 
+The CSC is helping local neighborhoods implement green stormwater infrastructure. Addressing water quality, environmental justice and quality of life issues through GSI projects and watershed-wide plans is an excellent way the CSC gives back to the community. Three nonprofit organizations serve as our key partners and other partners provide advisory, advocacy and other relevant services.
 
 ## [Temple–Villanova Sustainable Stormwater Initiative](http://www.temple.edu/ambler/csc/t-vssi/index.htm)
 Location: Bucks, Chester, Delaware, Montgomery, and Philadelphia counties, PA
 Status: Ongoing
-The CSC has a partnership with Villanova Urban Stormwater Partnership to demonstrate stormwater best management practices, to conduct research and to conduct outreach program focusing on regional stormwater management. 
+The CSC has a partnership with Villanova Urban Stormwater Partnership to demonstrate stormwater best management practices, to conduct research and to conduct outreach program focusing on regional stormwater management.
 
 ## [Green Neighborhood Toolkit](https://tyler.temple.edu/cdev-studio-sustainability-toolkit)
 Location: Philadelphia
@@ -138,4 +138,3 @@ Status: Ongoing
 A collaborative initiative of various government, private sector, and non-profit organizations.
 Location: Greater Philadelphia tri-state region
 Status: Ongoing
-

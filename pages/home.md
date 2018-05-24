@@ -1,10 +1,10 @@
 ---
 title: Home
 permalink: /
-layout: home
+layout: tla_home
 description: >-
   The Center for Sustainable Communities (CSC) at the Tyler School of Art
-  develops and promotes new approaches to sustainable             development. 
+  develops and promotes new approaches to sustainable             development.
 keywords: >-
   Center for Sustainable Communities, Temple University, Tyler School of Art,
   environmental studies, urban studies
@@ -46,4 +46,3 @@ Temple University
 [Faculty Profile](http://www.cla.temple.edu/gus/vhgv/)   
 
 ___
-

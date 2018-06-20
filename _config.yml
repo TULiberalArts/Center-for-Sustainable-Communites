@@ -5,6 +5,8 @@ title: Center for Sustainable Communities
 baseurl: /center-for-sustainable-communities
 # Production domain (without / at the end)
 production: https://www.cla.temple.edu
+# url spits sitemap
+url: https://www.cla.temple.edu/center-for-sustainable-communities
 
 
 # Program Information

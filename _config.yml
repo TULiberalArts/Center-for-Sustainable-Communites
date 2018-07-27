@@ -8,6 +8,10 @@ production: https://www.cla.temple.edu
 # url spits sitemap
 url: https://www.cla.temple.edu/center-for-sustainable-communities
 
+# Development Config
+# If you do not have access to 'tutheme', use 'minima' instead.
+theme: tutheme
+palette: light #future feature
 
 # Program Information
 # Short tagline for tweets (<100 characters)
@@ -25,6 +29,24 @@ address:
   city: Ambler, PA
   email: Sustainablecommunities@temple.edu
   phone: 267-468-8311
+
+# University & College Information
+university:
+  name: Temple University
+  url: https://temple.edu/
+college:
+  name: College of Liberal Arts
+  url: https://liberalarts.temple.edu/ 
+  
+program_news: https://liberalarts.temple.edu/news/center-for-sustainable-communities/view
+program_events: https://events.temple.edu/department/center-for-sustainable-communities
+
+# CSV/JSON/YAML data feeds URLs, to be fetched before each build
+events-feed: https://liberalarts.temple.edu/events/center-for-sustainable-communities/csv
+news-feed: https://liberalarts.temple.edu/news/center-for-sustainable-communities/csv
+articles-feed: https://liberalarts.temple.edu/articles/center-for-sustainable-communities/csv
+faculty-feed: https://liberalarts.temple.edu/profiles/center-for-sustainable-communities/csv
+media-mentions-feed: https://liberalarts.temple.edu/media-mentions/center-for-sustainable-communities/csv
 
 # Social Media
 # Put in only the username unless otherwise noted
@@ -51,35 +73,10 @@ social:
   linkedin:
   # Slack - Paste the FULL URL below
   slack:
+  # Google Tag Manager OR Google Analytics
+  google_analytics:
+  google_tag_manager: GTM-58ZL5B
 
-# University & College Information
-university:
-  name: Temple University
-  url: https://temple.edu/
-college:
-  name: College of Liberal Arts
-  url: https://liberalarts.temple.edu/ 
-  
-program_news: https://liberalarts.temple.edu/news/center-for-sustainable-communities/view
-program_events: https://events.temple.edu/department/center-for-sustainable-communities 
-
-
-# Google Tag Manager OR Google Analytics
-google_analytics:
-
-
-google_tag_manager: GTM-58ZL5B
-
-# CSV/JSON/YAML data feeds URLs, to be fetched before each build
-events-feed: https://liberalarts.temple.edu/events/center-for-sustainable-communities/csv
-news-feed: https://liberalarts.temple.edu/news/center-for-sustainable-communities/csv
-articles-feed: https://liberalarts.temple.edu/articles/center-for-sustainable-communities/csv
-faculty-feed: https://liberalarts.temple.edu/profiles/center-for-sustainable-communities/csv
-media-mentions-feed: https://liberalarts.temple.edu/media-mentions/center-for-sustainable-communities/csv
-
-# Development Config
-# If you do not have access to 'tutheme', use 'minima' instead.
-theme: tutheme
 
 # Global Site Config
 # DO NOT edit below unless if you know what you're doing!

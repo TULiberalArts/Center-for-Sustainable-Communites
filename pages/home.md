@@ -29,7 +29,7 @@ Professor and Chair, Department of Geography and Urban Studies
 Director, Center for Sustainable Communities  
 Temple University  
 [mgilbert@temple.edu](mailto:mgilbert@temple.edu)  
-[Faculty Profile](http://www.cla.temple.edu/gus/faculty/melissa-r-gilbert/)  
+[Faculty Profile](https://liberalarts.temple.edu/academics/faculty/r-gilbert-melissa)  
 
 Susan Spinella Sacks, M.S.  
 Assistant Director, Center for Sustainable Communities  
@@ -43,6 +43,6 @@ Faculty Fellow
 Center for Sustainable Communities  
 Temple University  
 [victor.hugo@temple.edu](mailto:victor.hugo@temple.edu)  
-[Faculty Profile](http://www.cla.temple.edu/gus/vhgv/)   
+[Faculty Profile](https://liberalarts.temple.edu/academics/faculty/gutierrez-velez-victor-hugo)   
 
 ___

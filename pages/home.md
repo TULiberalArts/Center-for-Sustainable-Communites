@@ -8,12 +8,14 @@ description: >-
 keywords: >-
   Center for Sustainable Communities, Temple University, Tyler School of Art,
   environmental studies, urban studies
+  
 feature: true
 feature-title: An Interdisciplinary Approach to Sustainability.
 feature-body: >-
   The Center utilizes the expertise of Temple University faculty to conduct solutions-oriented interdisciplinary research that promotes   human well-being and the integrity of the environment that supports us.
 feature-image: hero_sustainability.bg.png
 published: true
+promotion-table: true
 ---
 ## Sustainability Solutions in a Changing World
 The Center for Sustainable Communities at Temple University conducts integrated social and environmental research on natural, technological, and socio-economic systems to address the challenges of sustainability—how can we meet the needs of people locally and globally through equitable, innovative and practical solutions that protect the environment which sustains life on the planet.

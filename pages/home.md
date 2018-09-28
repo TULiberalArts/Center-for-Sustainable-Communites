@@ -2,7 +2,7 @@
 # global predefined variables
 layout: tla_home
 permalink: /
-promotion-table: true
+published: true
 # meta-data variables
 title: Home
 description: >-
@@ -17,7 +17,6 @@ feature-title: An Interdisciplinary Approach to Sustainability.
 feature-body: >-
   The Center utilizes the expertise of Temple University faculty to conduct solutions-oriented interdisciplinary research that promotes   human well-being and the integrity of the environment that supports us.
 feature-image: hero_sustainability.bg.png
-published: true
 promotion-table: true
 ---
 ## Sustainability Solutions in a Changing World

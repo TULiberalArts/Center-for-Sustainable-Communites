@@ -35,12 +35,9 @@ Temple University
 [mgilbert@temple.edu](mailto:mgilbert@temple.edu)  
 [Faculty Profile](https://liberalarts.temple.edu/academics/faculty/r-gilbert-melissa)  
 
-Susan Spinella Sacks, M.S.  
-Assistant Director, Center for Sustainable Communities  
-Temple University  
-202 West Hall, Ambler Campus  
-(267) 468 8312  
-[susan.sacks@temple.edu](mailto:susan.sacks@temple.edu)  
+Maggie Cogswell  
+Manager, Administration
+[maggie.cogswell@temple.edu](mailto:maggie.cogswell@temple.edu)  
 
 Victor Hugo Gutiérrez-Vélez, PhD   
 Faculty Fellow  

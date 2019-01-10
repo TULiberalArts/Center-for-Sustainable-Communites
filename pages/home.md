@@ -36,7 +36,7 @@ Temple University
 [Faculty Profile](https://liberalarts.temple.edu/academics/faculty/r-gilbert-melissa)  
 
 Maggie Cogswell  
-Manager, Administration
+Manager, Administration    
 [maggie.cogswell@temple.edu](mailto:maggie.cogswell@temple.edu)  
 
 Victor Hugo Gutiérrez-Vélez, PhD   

@@ -35,8 +35,8 @@ Temple University
 [mgilbert@temple.edu](mailto:mgilbert@temple.edu)  
 [Faculty Profile](https://liberalarts.temple.edu/academics/faculty/r-gilbert-melissa)  
 
-Vicki Giammarco
-Manager, Administration    
+Vicki Giammarco     
+Manager, Administration     
 [vicki.giammarco@temple.edu](mailto:vicki.giammarco@temple.edu)  
 
 Victor Hugo Gutiérrez-Vélez, PhD   

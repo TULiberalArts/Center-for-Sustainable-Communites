@@ -35,9 +35,9 @@ Temple University
 [mgilbert@temple.edu](mailto:mgilbert@temple.edu)  
 [Faculty Profile](https://liberalarts.temple.edu/academics/faculty/r-gilbert-melissa)  
 
-Maggie Cogswell  
+Vicki Giammarco
 Manager, Administration    
-[maggie.cogswell@temple.edu](mailto:maggie.cogswell@temple.edu)  
+[vicki.giammarco@temple.edu](mailto:vicki.giammarco@temple.edu)  
 
 Victor Hugo Gutiérrez-Vélez, PhD   
 Faculty Fellow  

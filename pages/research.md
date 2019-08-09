@@ -1,7 +1,7 @@
 ---
 title: Research
 permalink: /research/
-layout: tla_page
+layout: tla_page_test
 published: false
 ---
 The Center for Sustainable Communities conducts interdisciplinary research and offers educational and community outreach programs to address environmental and quality of life issues.

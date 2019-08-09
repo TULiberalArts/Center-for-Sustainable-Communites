@@ -19,7 +19,7 @@ feature-body: >-
 feature-image:
 promotion-table: true
 ---
-![Sustsinability Logo]({{site.baseurl}}/media/croppedsustainability.bg.png){:.responsive-img .img-center}
+![Sustsinability Logo]({{site.baseurl}}/media/cropped2sustainability.bg.png){:.responsive-img .img-center}
 
 ## Sustainability Solutions in a Changing World
 The Center for Sustainable Communities at Temple University conducts integrated social and environmental research on natural, technological, and socio-economic systems to address the challenges of sustainability—how can we meet the needs of people locally and globally through equitable, innovative and practical solutions that protect the environment which sustains life on the planet.

@@ -9,7 +9,7 @@ published: true
 The Center for Sustainable Communities conducts interdisciplinary research and offers educational and community outreach programs to address environmental and quality of life issues.
 
 - [Temple receives EPA grant to clean up industrial contamination](http://news.temple.edu/news/2015-04-22/center-sustainable-communities-receives-epa-grant)
-- [EPA grant helps Temple take aim at potentially hazardous waste sites in Kensington](http://www.newsworks.org/index.php/local/healthscience/80052-epa-grant-helps-temple-take-aim-at-potentially-hazardous-waste-sites-in-kensington-)
+- EPA grant helps Temple take aim at potentially hazardous waste sites in Kensington
 - [Community Invited To Take Part In Center For Sustainable Communities-Led Workshops](http://ambler.temple.edu/about/news/community-invited-take-part-center-sustainable-communities-led-workshops)
 - [CSC holds public meeting on flooding and stormwater management studies](https://ambler.temple.edu/about/news/csc-holds-public-meeting-flooding-and-stormwater-management-studies)
 - [Center for Sustainable Communities leads the way in stormwater, transportation and urban greening initiatives](http://ambler.temple.edu/about/news/csc-leads-way-stormwater-transportation-and-urban-greening-initiatives)

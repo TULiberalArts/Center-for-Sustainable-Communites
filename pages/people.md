@@ -42,7 +42,7 @@ Postdoctoral Fellow
 wilarhen@temple.edu  
 [Profile](https://liberalarts.temple.edu/academics/faculty/lara-henao-wilson)
 
-\##Graduate Research Assistant
+## Graduate Research Assistant
 Dirk Kinsey  
 Graduate Research Assistant  
 dirk.kinsey@temple.edu  

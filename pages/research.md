@@ -1,11 +1,12 @@
 ---
 title: Research
 permalink: /research/
-layout: tla_page_test
+layout: tla_page
 published: true
 ---
+
 ## NSF Sustainable Urban Systems Workshop: How Does Infrastructure Shape Equity and Well-being across the Urban-Rural Gradient?
- 
+
 Principal Investigator at Temple University: Melissa R. Gilbert
 
 Collaborators: Laura Toran, Hamil Pearsall, Victor Gutierrez (Temple University), Eduardo Brondizio (Indiana University), Simi Hoque, Franco Montalto (Drexel University), Bill Solecki (CUNY-Hunter), Christa Brelsford (Oak Ridge National Library)
@@ -42,7 +43,7 @@ Funding Agency: National Aeronautics and Space Administration (NASA)
 
 Earth Observations data and products represent great potential for understanding, managing, and conserving biodiversity. The ability of decision makers to translate this vast amount of data into information for practical decisions is constrained by differences in data structures, sources, and formats and the complexity of operations necessary for data assimilation, merging, analysis, and interpretation. Overcoming these constraints is critical in Colombia, where recent and unprecedented achievements to end more than 50 years of internal war constitute challenges and opportunities for sustainable development and biodiversity conservation. Colombia is one of the most biodiverse countries in the world. Current high rates of deforestation and ecosystem degradation constitute sensitive pressures for biodiversity conservation. Colombia is also one of only three countries worldwide pioneering the implementation of a national Biodiversity Observation Network (BON). The Colombian BON has identified as crucial, the need to provide processing tools and analytical skills to decision-makers for integrating biodiversity information into national and regional development planning.
 
-We are developing a Decision Support System (DSS) for Biodiversity Conservation and Management in Colombia. The DSS will facilitate the integration, processing and analysis of Earth observations in one platform, to inform biodiversity decision-making. The DSS will allow users to bring existing Earth Observations into compatible data structures and to develop metrics for different geographic domains and time periods. The toolset will be accessible at two “tiers” of complexity, suitable to different levels of user expertise. Project activities include workshops, training sessions and webinars to broaden the participation of stakeholders in the development of the DSS and to build capacity for its use for research, policy decision-making and environmental monitoring (more details can be found here: http://bosproject.org)
+We are developing a Decision Support System (DSS) for Biodiversity Conservation and Management in Colombia. The DSS will facilitate the integration, processing and analysis of Earth observations in one platform, to inform biodiversity decision-making. The DSS will allow users to bring existing Earth Observations into compatible data structures and to develop metrics for different geographic domains and time periods. The toolset will be accessible at two “tiers” of complexity, suitable to different levels of user expertise. Project activities include workshops, training sessions and webinars to broaden the participation of stakeholders in the development of the DSS and to build capacity for its use for research, policy decision-making and environmental monitoring (more details can be found here: <http://bosproject.org>)
 
 ## Sustainability variations in Mexico City Metropolitan Area 2000-2018
 

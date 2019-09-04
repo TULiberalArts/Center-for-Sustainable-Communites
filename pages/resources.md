@@ -2,7 +2,7 @@
 title: Resources and Activities
 permalink: /resources/
 layout: tla_page_test
-published: true
+published: false
 ---
 
 ## Center for Sustainable Communities Research Projects

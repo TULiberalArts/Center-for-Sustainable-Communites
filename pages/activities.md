@@ -5,11 +5,10 @@ layout: tla_page_test
 published: true
 ---
 
-
 September 11-13, 2019
-## NSF Sustainable Urban Systems Workshop: How Does Infrastructure Shape Equity and Well-being across the Urban-Rural Gradient?
+## NSF Sustainable Urban Systems Workshop:
+How Does Infrastructure Shape Equity and Well-being across the Urban-Rural Gradient?
 
- 
 March 20, 2019
 ## Our Health and Our Grid:
 A panel discussion about the impacts of Climate change on public health and our energy infrastructure.  Featuring climate, community and public health experts

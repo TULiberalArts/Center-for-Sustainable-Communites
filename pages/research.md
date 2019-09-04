@@ -2,7 +2,7 @@
 title: Research
 permalink: /research/
 layout: tla_page_test
-published: true
+published: false
 ---
 NSF Sustainable Urban Systems Workshop: How Does Infrastructure Shape Equity and Well-being across the Urban-Rural Gradient?
  

@@ -14,7 +14,6 @@ March 20, 2019
 A panel discussion about the impacts of Climate change on public health and our energy infrastructure.  Featuring climate, community and public health experts
 
 
-
 ## [Agency, Agents and Flows at the Rural-Urban interface in Changing Amazonia](https://events.temple.edu/dr-eduardo-s-brond%C3%ADzio-agency-agents-and-flows-at-the-rural-urban-interface-in-changing-amazonia)
 February 22, 2019  
 Dr. Eduardo Brondizio. Indiana University, Bloomington.

@@ -5,7 +5,7 @@ layout: tla_page_test
 published: true
 ---
 
-##[NSF Sustainable Urban Systems Workshop: How Does Infrastructure Shape Equity and Well-being across the Urban-Rural Gradient?](https://sites.temple.edu/susworkshop/)
+## [NSF Sustainable Urban Systems Workshop: How Does Infrastructure Shape Equity and Well-being across the Urban-Rural Gradient?](https://sites.temple.edu/susworkshop/)
 
 Principal Investigator at Temple University: Melissa R. Gilbert
 
@@ -23,7 +23,7 @@ Funding Agency: Oak Ridge Associated Universities
 
 The symposium held March 22-23, 2018 brought together top-level researchers and students working in ORAU and other institutions on topics related to the social, environmental, economic, policy and cultural dimensions of sustainability science. The purpose is to inspire and outline the next frontier of research for understanding and anticipating pressing sustainability challenges as well as for facilitating the contribution of science and academia to enabling societal transitions toward sustainability. We expect to identify gaps, provide a conceptual framework, and outline a transdiciplinary sustainability science research agenda with hypotheses, key questions and funding strategies for research proposals.
 
-##[Synthesis of the Benefits and Costs of Urban Public Spaces]()
+## [Synthesis of the Benefits and Costs of Urban Public Spaces]()
 
 Principal Investigator at Temple University: Hamil Pearsall
 

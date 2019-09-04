@@ -2,7 +2,7 @@
 title: Activities
 permalink: /activities/
 layout: tla_page_test
-published: false
+published: true
 ---
 
 ## Activities

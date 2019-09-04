@@ -23,12 +23,12 @@ keywords: highered, college, university, philadelphia, Temple
 
 # Address
 address:
-  building: West Hall; Ambler Campus
+  building: Main Campus
   room:
-  street: 580 Meetinghouse Road
-  city: Ambler, PA
+  street: 1115 W. Berks street
+  city: Philadelphia, PA
   email: Sustainablecommunities@temple.edu
-  phone: 267-468-8311
+  phone: 215-204-7692
 
 # University & College Information
 university:
@@ -36,7 +36,7 @@ university:
   url: https://temple.edu/
 college:
   name: College of Liberal Arts
-  url: https://liberalarts.temple.edu/ 
+  url: https://liberalarts.temple.edu/
   
 program_news: https://liberalarts.temple.edu/news/center-for-sustainable-communities/view
 program_events: https://events.temple.edu/department/center-for-sustainable-communities

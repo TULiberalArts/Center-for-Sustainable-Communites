@@ -1,7 +1,7 @@
 ---
 title: Activities
 permalink: /activities/
-layout: tla_page
+layout: tla_page_test
 published: true
 ---
 

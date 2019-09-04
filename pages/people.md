@@ -2,7 +2,7 @@
 # global predefined variables
 layout: tla_faculty
 permalink: /people/
-published: true
+published: false
 # meta-data variables
 title: Faculty
 keywords: 'faculty, renowned, laboratory'

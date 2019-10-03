@@ -57,7 +57,7 @@ We are developing a Decision Support System (DSS) for Biodiversity Conservation 
 
 ___
 
-## Sustainability variations in Mexico City Metropolitan Area 2000-2018
+## Sustainability Variations in Mexico City Metropolitan Area 2000-2018
 
 **Principal Investigator:** [Carlos Topete Pozas (Temple University)](https://liberalarts.temple.edu/academics/faculty/topete-pozas-carlos)<br>
 **Funding Agency:** Concejo Nacional de Ciencia y Tecnología (Mexico)<br>

@@ -22,7 +22,7 @@ February 22, 2019
 **Urban Mitigation of Climate Change: Lessons from Intergovernmental Panel on Climate Change (IPPC) Reports**<br>
 January 24, 2019  
 **Dr. Karen Seto, Yale University**<br>
-[_Urban Mitigation of Climate Change: Lessons from Intergovernmental Panel on Climate Change (IPPC) Reports_](https://liberalarts.temple.edu/news/dr-karen-seto-lecture-january-24th)
+- [_Urban Mitigation of Climate Change: Lessons from Intergovernmental Panel on Climate Change (IPPC) Reports_](https://liberalarts.temple.edu/news/dr-karen-seto-lecture-january-24th)
 
 **Theorizing Urban Agriculture in the Global North and Global South**<br>
 November 2, 2018  

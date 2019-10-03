@@ -19,7 +19,7 @@ February 22, 2019
 **Dr. Eduardo Brondizio, Indiana University, Bloomington**<br>
 - [_Agency, Agents and Flows at the Rural-Urban interface in Changing Amazonia_](https://events.temple.edu/dr-eduardo-s-brond%C3%ADzio-agency-agents-and-flows-at-the-rural-urban-interface-in-changing-amazonia)
 
-## [Urban Mitigation of Climate Change: Lessons from Intergovernmental Panel on Climate Change (IPPC) Reports]
+## Urban Mitigation of Climate Change: Lessons from Intergovernmental Panel on Climate Change (IPPC) Reports
 January 24, 2019  
 **Dr. Karen Seto, Yale University**<br>
 [_Urban Mitigation of Climate Change: Lessons from Intergovernmental Panel on Climate Change (IPPC) Reports_](https://liberalarts.temple.edu/news/dr-karen-seto-lecture-january-24th)

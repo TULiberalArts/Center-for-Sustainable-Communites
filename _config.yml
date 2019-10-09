@@ -38,7 +38,7 @@ college:
   name: College of Liberal Arts
   url: https://liberalarts.temple.edu/
   
-program_news: https://liberalarts.temple.edu/news/center-for-sustainable-communities/view
+program_news: https://liberalarts.temple.edu/news/center-for-sustainable-communities
 program_events: https://events.temple.edu/department/center-for-sustainable-communities
 
 # CSV/JSON/YAML data feeds URLs, to be fetched before each build

@@ -9,5 +9,5 @@ keywords: ''
 description: >-
 # custom variables
 faculty: profiles/faculty.html
-affiliated: profiles/affiliated.html
+
 ---

@@ -4,6 +4,8 @@ permalink: /research/
 layout: tla_page_test
 published: true
 ---
+___
+
 ## New Podcast from CSC and Planet Philadelphia
 Temple University’s Center for Sustainable Communities hosted a workshop ‘How does Infrastructure Shape Equity and Well-being Across the Urban-Rural Gradient?’ September 11th to September 13th, 2019. The workshop was supported by the National Science Foundation (NSF) under Grant No. 1929834. The workshop was about the impact of infrastructure on equity and well-being across the urban-rural gradient and used Philadelphia metropolitan region as a case study. Workshop attendees included researchers from the social, engineering, health, data, and environmental sciences, and practitioners, industry leaders, government agencies, educators, and community organizers.
 This podcast is a compilation of interviews conducted by Kay Wood, host of Planet Philadelphia, Linda Rosenwein, Planet Philadelphia assistant producer, and Geography and Urban Studies graduate students.

@@ -6,9 +6,12 @@ published: true
 ---
 ___
 
-## New Podcast from CSC and Planet Philadelphia
-Temple University’s Center for Sustainable Communities hosted a workshop ‘How does Infrastructure Shape Equity and Well-being Across the Urban-Rural Gradient?’ September 11th to September 13th, 2019. The workshop was supported by the National Science Foundation (NSF) under Grant No. 1929834. The workshop was about the impact of infrastructure on equity and well-being across the urban-rural gradient and used Philadelphia metropolitan region as a case study. Workshop attendees included researchers from the social, engineering, health, data, and environmental sciences, and practitioners, industry leaders, government agencies, educators, and community organizers.
-This podcast is a compilation of interviews conducted by Kay Wood, host of Planet Philadelphia, Linda Rosenwein, Planet Philadelphia assistant producer, and Geography and Urban Studies graduate students.
+## New Podcast from the Center for Sustainable Communities and Planet Philadelphia
+The Center for Sustainable Communities in conjunction with Planet Philadelphia, has produced a new podcast covering the proceedings of a recent NSF funded workshop hosted by the CSC focused on sustainable infrastructure. Bringing together researchers in social, engineering, health, data, and environmental sciences from across the region and the country, along with practitioners, industry leaders, government agencies, educators, and community organizers, the workshop sought to address the role of infrastructure in shaping sustainability, equity and well-being across the urban-rural gradient. 
+
+Recognizing the popularity of podcasts, and their potential as an important tool in science communication, the CSC partnered with Planet Philadelphia, a weekly community radio program based in Philadelphia and centered on environmental issues. Kay Wood, host of Planet Philadelphia and Linda Rosenwein, Planet Philadelphia assistant producer, along with Geography and Urban Studies graduate students conducted interviews with participants over the course of the three day workshop. The end result provides not only insights from area experts into challenging sustainability issues, but also a rare view for non-academics into the processes and practices of trans-disciplinary science.
+
+The podcast will be airing April 17th show, 4-5:00 pm EST, 92.9FM WGGTLP in Philadelphia and streaming on [gtownradio.com](http://www.gtownradio.com). You can also find the podcast using the following link.
 
 - [Podcast: How does Infrastructure Shape Equity and Well-being Across the Urban-Rural Gradient?](https://www.mixcloud.com/PlanetPhiladelphia/how-does-infrastructure-shape-equity-and-well-being-across-the-urban-rural-gradient/) 
 

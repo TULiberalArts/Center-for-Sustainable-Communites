@@ -15,6 +15,8 @@ The podcast will be airing April 17th show, 4-5:00 pm EST, 92.9FM WGGTLP in Phil
 
 - [Podcast: How does Infrastructure Shape Equity and Well-being Across the Urban-Rural Gradient?](https://www.mixcloud.com/PlanetPhiladelphia/how-does-infrastructure-shape-equity-and-well-being-across-the-urban-rural-gradient/) 
 
+- For more information, [download the Community Report ‘How does Infrastructure Shape Equity and Well-being Across the Urban-Rural Gradient?’](https://drive.google.com/file/d/1yZfBqFTSi6-KWA60W57qnr2kupdbS9Tf/view) summarizing the findings of the workshop. 
+
 ## NSF Sustainable Urban Systems Workshop: How Does Infrastructure Shape Equity and Well-being across the Urban-Rural Gradient?
 
 **Principal Investigator at Temple University:** [Melissa R. Gilbert](https://liberalarts.temple.edu/academics/faculty/gilbert-melissa-r)<br>

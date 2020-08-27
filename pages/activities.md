@@ -4,6 +4,18 @@ permalink: /activities/
 layout: tla_page_test
 published: true
 ---
+___
+
+![Sustsinability Logo]({{site.baseurl}}/media/cropped envisioning slide.png){:.responsive-img .img-center}
+
+## Fall 2020 Activities 
+**[Panel Discussion: Envisioning an Anti-racist Sustainable Philly History and Practice for Environmental Justice**](https://events.temple.edu/panel-discussion-envisioning-an-anti-racist-sustainable-philly-history-and-practice-for)<br>
+**Tuesday, September 15, 2020**<br> 
+**3:30 pm - 5:00 EDT**<br> 
+
+___
+
+## Past Activities 
 **NSF Sustainable Urban Systems Workshop**<br>
 September 11-13, 2019  
 - [_How Does Infrastructure Shape Equity and Well-being across the Urban-Rural Gradient?_](https://sites.temple.edu/susworkshop/)<br>

@@ -11,7 +11,7 @@ description: >-
 faculty: profiles/faculty.html
 affiliated: profiles/affiliated.html
 ---
-**Staff**<br>
+### Staff
 Vicki Giammarco<br>
 Senior Manager, Administration<br>
 [vicki.giammarco@temple.edu](mailto:vicki.giammarco@temple.edu)<br>

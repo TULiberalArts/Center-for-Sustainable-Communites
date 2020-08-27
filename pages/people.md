@@ -11,8 +11,6 @@ description: >-
 faculty: profiles/faculty.html
 affiliated: profiles/affiliated.html
 ---
-___
-
 **Staff**<br>
 Vicki Giammarco<br>
 Senior Manager, Administration<br>

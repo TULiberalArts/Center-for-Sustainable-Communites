@@ -13,6 +13,8 @@ ___
 **Tuesday, September 15, 2020**<br> 
 **3:30 pm - 5:00 EDT**<br> 
 
+- View the [full video for _Envisioning an Anti-Racist Sustainable Philly_](https://www.youtube.com/watch?v=08Delto-hww&t=190s)
+
 ___
 
 ## Past Activities 

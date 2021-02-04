@@ -6,7 +6,7 @@ published: true
 # meta-data variables
 title: Home
 description: >-
-  The Center for Sustainable Communities (CSC) at the Tyler School of Art
+  The Center for Sustainable Communities (CSC) at the College of Liberal Arts
   develops and promotes new approaches to sustainable development.
 keywords: >-
   Center for Sustainable Communities, Temple University, Tyler School of Art,
@@ -15,7 +15,7 @@ keywords: >-
 feature: true
 feature-title: An Interdisciplinary Approach to Sustainability.
 feature-body: >-
-  The Center utilizes the expertise of Temple University faculty to conduct solutions-oriented interdisciplinary research that promotes   human well-being and the integrity of the environment that supports us.
+  The Center utilizes the expertise of Temple University faculty to conduct solutions-oriented interdisciplinary research that promotes human well-being and the integrity of the environment that supports us.
 feature-image:
 promotion-table: true
 ---
